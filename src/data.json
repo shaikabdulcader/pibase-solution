@@ -1,0 +1,727 @@
+    {
+        "navbar": [
+            {
+                "title": "Explore",
+                "path": "/"
+            },
+            {
+                "title": "Partners",
+                "path": "/"
+            },
+            {
+                "title": "Pricing",
+                "path": "/"
+            },
+            {
+                "title": "Blog",
+                "path": "/"
+            },
+            {
+                "title": "Company",
+                "path": "/",
+                "subtitle": [
+                    {
+                        "title": "About Us",
+                        "path": "/about"
+                    },
+                    {
+                        "title": "Contact Us",
+                        "path": "/contact"
+                    }
+                ]
+            },
+            {
+                "title": "Support",
+                "path": "/support"
+            },
+            {
+                "title": "Login",
+                "path": "/login"
+            },
+            {
+                "title": "Language",
+                "path": "/"
+            },
+            {
+                "title": "Careers",
+                "path": "/careers"
+            }
+        ],
+        "homepage": [
+            {
+                "title": "Your All-in-one Cloud based Restaurant & Retail ERP Software",
+                "content": "PosBytz ERP software is the perfect solution for simplifying your business operations from POS, Ecommerce,  inventory , Accounting , CRM and HR & Payroll.",
+                "btntxt": "Get started",
+                "img": "https://posbytz.com/wp-content/uploads/2023/07/rating-main-10-1536x165.png"
+            }
+        ],
+        "features": [
+            {
+                "title": "Features of Our ERP Software?",
+                "subcontent": [
+                    {
+                        "title": "POS",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/itl1.png"
+                    },
+                    {
+                        "title": "Order Managment",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitl.png"
+                    },
+                    {
+                        "title": "Purchase & Inventory Management",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/itled-1.png"
+                    },
+                    {
+                        "title": "Ecommerce & Online ordering",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-.png"
+                    },
+                    {
+                        "title": "Accounting & Finance",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/1.png"
+                    },
+                    {
+                        "title": "CRM & Marketing Automation",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Un.png"
+                    },
+                    {
+                        "title": "HR & Payroll",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Un.png"
+                    }
+                ],
+                "keyhighlights": [
+                    {
+                        "title": "Our POS software offers a wide range of powerful features designed to enhance your retail and restaurant operations. Here are some key highlights:",
+                        "contents": [
+                            {
+                                "topics": "Easy-to-Use Interface"
+                            },
+                            {
+                                "topics": "Device Agnotic can be installed in Windows, Android and IOS"
+                            },
+                            {
+                                "topics": "Works well for both Restaurant and Retail business"
+                            },
+                            {
+                                "topics": "Multiple channel Sales management"
+                            },
+                            {
+                                "topics": "Integrations with printers, scanner ,weighing scales and label printers"
+                            }
+                        ],
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-87.png"
+                    }
+                ]
+            }
+        ],
+        "iframe": [
+            {
+                "title": "How it Works?",
+                "subheading": "Checkout how you can Automate your Business with PosBytz ERP Software",
+                "content": "Discover how our retail and restaurant ERP software can revolutionize your business operations today!",
+                "video": "https://www.youtube.com/embed/xxQzhDkWPpc?si=dL566AgzoEBmtv6Y"
+            }
+        ],
+        "posbytz": [
+            {
+                "title1": "Reasons to Choose PosBytz ERP Software",
+                "title2": "One of Best Cloud ERP Software for Small & Medium businesses",
+                "title3": "PosBytz ERP",
+                "erpcard": [
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-2.png",
+                        "cardtitle": "POS",
+                        "title": "Simplifying billing, Empowering Businesses",
+                        "content": "Enhance your business efficiency with our cutting-edge Point of Sale solutions works on Windows POS, Android POS and IPAD POS.  Our Cloud POS system empowers your business for growth and success"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-1.png",
+                        "cardtitle": "Ecommerce & Online ordering",
+                        "title": "Omnichannel solution, Unified commerce",
+                        "content": "Experience the future of retail with our comprehensive Omnichannel Ecommerce solution. Seamlessly integrate your online and offline sales channels, creating a unified commerce experience for your customers."
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-123.png",
+                        "cardtitle": "Inventory Management",
+                        "title": "Efficient Inventory Control, Amplified Success",
+                        "content": "Efficiently manage  your inventory with our advanced Inventory Management system. Gain real-time visibility into stock levels, track product movement, and automate reordering processes for optimal efficiency. Streamline operations, reduce costs, and ensure inventory accuracy with our powerful solution."
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-18.png",
+                        "cardtitle": "Accounting & Finance",
+                        "title": "Simplified Accounting and Finances",
+                        "content": "From accurate bookkeeping to robust financial reporting, our platform provides the tools and insights you need to make informed business decisions. Simplify tax compliance, streamline financial processes and ERP Financial reports"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-19.png",
+                        "cardtitle": "CRM",
+                        "title": "Nurturing Relationships, Maximizing Growth",
+                        "content": "Unlock the power of customer relationships with our industry-leading CRM solution. Seamlessly manage and nurture your customer interactions by sending personalised discounts and build your loyal customer base."
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-11.png",
+                        "cardtitle": "HR & Payroll",
+                        "title": "Streamlined HR & Payroll, Empowering People",
+                        "content": "Elevate your HR and Payroll processes with our integrated solution. Simplify employee management, automate payroll calculations, and ensure compliance with ease. Streamline onboarding, time tracking, benefits administration, and more, all within a single, user-friendly ERP platform"
+                    }
+                ]
+            }
+        ],
+        "integrations": [
+            {
+                "title": "Integrations",
+                "content": "Connect third-party software integrations to PosBytz to keep your business running smoothly"
+            }
+        ],
+        "brand": [
+            {
+                "title": "Trusted by great brands",
+                "content": "Over 5000+ businesses in 15 countries have registered with PosBytz.",
+                "btntext": "Get started for free"
+            }
+        ],
+        "carousal": [
+            {
+                "cardata": [
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/HOT-POT.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Kebab-time.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Zoara.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/nashama_coffee.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/tabiboba_new_pink_logo-1.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/lassi_shakes.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Chimney-Cone.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/ROYCE-Chocolate.png"
+                    }
+                ]
+            },
+            {
+                "cardata": [
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/HOT-POT.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Kebab-time.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Zoara.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/nashama_coffee.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/tabiboba_new_pink_logo-1.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/lassi_shakes.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Chimney-Cone.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/ROYCE-Chocolate.png"
+                    }
+                ]
+            },
+            {
+                "cardata": [
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/HOT-POT.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Kebab-time.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Zoara.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/nashama_coffee.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/tabiboba_new_pink_logo-1.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/07/lassi_shakes.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Chimney-Cone.png"
+                    },
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/ROYCE-Chocolate.png"
+                    }
+                ]
+            }
+        ],
+        "testimonials": [
+            {
+                "title": "Customer Testimonials",
+                "card": [
+                    {
+                        "title": "MazaArabia, KSA",
+                        "content": "We are providing broast chicken food across KSA with about 25 outlets and growing. With PosBytz we have automated the entire operations from purchases, inventory, sales and also enabled our own online ordering system with ease. We will definetly recommend PosBytz to all Restaurant ERP software to all F&B brands expanding as franchise business",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/maaza-85x90.png"
+                    },
+                    {
+                        "title": "Sam's Pasta Pizza, Qatar",
+                        "content": "We are an traditional Italian cuisine based brand. Have been using PosBytz for our Restaurant Management operations and so far there has been no issues with respect to the software and as a owner can able see my business online from anywhere. PosBytz is very easy to use for setting up menu , ingredients/recipes , POS , inventory etc..,",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Sams-Pizza-85x90.png"
+                    },
+                    {
+                        "title": "Farmarika",
+                        "content": "This ERP platform is simple and excellent . It is has the omnichannel model to sell the products. I have been using this product for more than 1 year. It is very good to manage the catalogue, items, pricing, taxing , customers, employees etc.",
+                        "img": "https://posbytz.com/wp-content/uploads/2021/09/posbytz_review_farmarika.webp"
+                    },
+                    {
+                        "title": "Alkarkand Abha KSA",
+                        "content": "We have recently migrated our software to PosBytz so far have been always improvising the features based on request and strongly recommend for F&B groups managing complex restaurant operations with multiple brands from purchases, inventory, transfers, Accounting to P&L reports. Integrated QR code ordering system with POS works seamlessly and gives a great customer experience.",
+                        "img": "https://posbytz.com/wp-content/uploads/2023/09/Al-karakand-e1695319023203-83x71.png"
+                    },
+                    {
+                        "title": "Tehran-the Taste Of Persia",
+                        "content": "I have been using Posbytz for more than two years, would definitely recommend to all my fellow restaurant owners given the fact it gives complete control over your business. Best would be the branded apps and online ordering platform integrated with POS and inventory.",
+                        "img": "https://posbytz.com/wp-content/uploads/2021/09/tehran_taste_persia-85x90.png"
+                    }
+                ]
+            }
+        ],
+        "signup": [
+            {
+                "title": "Run Your Business With PosBytz ERP Software",
+                "btntxt": "Sign up for free",
+                "img": "https://posbytz.com/wp-content/uploads/2023/07/Untitled-13.png"
+            }
+        ],
+        "faq": [
+            {
+                "title": "Frequently Asked Questions (FAQ)",
+                "accordion": [
+                    {
+                        "title": "What is Retail ERP software?",
+                        "content": "Retail ERP software is a comprehensive solution designed to meet the specific needs of retail businesses. It integrates various functions and processes, such as inventory management, point of sale (POS), sales and order management, customer relationship management (CRM), and Accounting, into a single software system"
+                    },
+                    {
+                        "title": "What is Restaurant ERP software?",
+                        "content": "Restaurant ERP software offers managing a multiple chain restaurant business at one place from managing"
+                    },
+                    {
+                        "title": "Why do Retailers need ERP software?",
+                        "content": "Streamlined Operations: ERP software integrates various business functions, such as inventory management, sales, POS, customer management, and financials, into a centralized system. This streamlines operations, reduces manual tasks, and improves overall efficiency."
+                    },
+                    {
+                        "title": "What is cloud-based ERP software?",
+                        "content": "Cloud-based ERP software is a type of ERP system that is hosted and accessed over a cloud infrastructure. In this model, the software would be managed and maintained by an ERP provider with a Pay as you Use model on a Subscription."
+                    },
+                    {
+                        "title": "Benefits of using Retail ERP System",
+                        "content": "Using a Retail ERP system offers several benefits for retailers having one system to manage both outlet and online business along with managing all your operations from customer management, sales, Loyalty and accounting under one roof."
+                    },
+                    {
+                        "title": "Why is PosBytz the best ERP software for Restaurant, and Retail?",
+                        "content": "PosBytz offers a complete suite for Retail and Restaurant businesses to automate their business operations with tools to also increase their business online and offline. PosBytz offers POS , inventory management, Sales Management, CRM , Accounting and HR & Payroll management."
+                    },
+                    {
+                        "title": "How to download Free Retail ERP Software from PosBytz?",
+                        "content": "You can start using PosBytz for Free with our Free plan sign-up now"
+                    },
+                    {
+                        "title": "What is cost of ERP software ?",
+                        "content": "Cost of the PosBytz ERP software starts as low as from $19 Dollars per month. To know more about our plan please check our pricing."
+                    },
+                    {
+                        "title": "Does ERP software works for Cafe shop ?",
+                        "content": "Yes PosBytz ERP Software for cafe shops with POS, inventory, employee, and customer management. Consider user-friendliness, mobile accessibility, and integration for optimal cafe shop operations."
+                    },
+                    {
+                        "title": "Does the ERP Software work for Cloud kitchen business?",
+                        "content": "Cloud kitchen ERP software with robust order management, inventory tracking, kitchen workflow, and delivery integration. Ensure scalability, customization, and user-friendly cloud-based features for efficiency."
+                    },
+                    {
+                        "title": "What is Retail Grocery Store ERP Software?",
+                        "content": "Retail grocery store ERP software is a comprehensive system that integrates various operations, including inventory management, sales, and customer relationships, to streamline and enhance grocery store management."
+                    },
+                    {
+                        "title": "What is Best ERP software for Supermarkets?",
+                        "content": "PosBytz ERP software for Supermarket include inventory tracking, point of sale (POS), supplier management, employee scheduling, analytics, accounting and other systems."
+                    },
+                    {
+                        "title": "Does PosBytz ERP Managment Software supports Boutique stores?",
+                        "content": "PosBytz Boutique store ERP software with key features include inventory management, point of sale (POS), customer relationship management (CRM), employee scheduling, and reporting for boutique-specific needs."
+                    },
+                    {
+                        "title": "How can we customize ERP Software for Butchery store business?",
+                        "content": "PosBytz Butchery store ERP software Key features include inventory management for meat products, point of sale (POS), supplier management, order processing, employee scheduling, and traceability for meat sourcing"
+                    }
+                ]
+            }
+        ],
+        "automate": [
+            {
+                "title": "Ready to Automate your business operations? Try our powerful ERP software today and experience the growth!",
+                "btntxt": "Get Started Now"
+            }
+        ],
+        "footer": [
+            {
+                "logo": "https://posbytz.com/wp-content/uploads/2021/09/logo_light.svg",
+                "para1": "PosBytz is your comprehensive platform to manage everything you need to sell and grow your business.",
+                "para2": "PosBytz is a product of Bytize, Inc.",
+                "companydetails": [
+                    {
+                        "product": [
+                            {
+                                "title": "PRODUCT",
+                                "contents": [
+                                    {
+                                        "txt": "Pricing"
+                                    },
+                                    {
+                                        "txt": "Watch Videos"
+                                    },
+                                    {
+                                        "txt": "Best POS Software"
+                                    },
+                                    {
+                                        "txt": "PosBytz for Restaurants"
+                                    },
+                                    {
+                                        "txt": "PosBytz for Retail"
+                                    },
+                                    {
+                                        "txt": "Cloud POS"
+                                    },
+                                    {
+                                        "txt": "Android POS"
+                                    },
+                                    {
+                                        "txt": "PosBytz for Small Business"
+                                    }
+                                ]
+                            }
+                        ],
+                        "company": [
+                            {
+                                "title": "COMPANY",
+                                "contents": [
+                                    {
+                                        "txt": "About Us"
+                                    },
+                                    {
+                                        "txt": "Contact Us"
+                                    },
+                                    {
+                                        "txt": "PosBytz Blog"
+                                    },
+                                    {
+                                        "txt": "Terms and Conditions"
+                                    },
+                                    {
+                                        "txt": "Privacy Policy"
+                                    }
+                                ]
+                            }
+                        ],
+                        "support": [
+                            {
+                                "title": "SUPPORT",
+                                "contents": [
+                                    {
+                                        "txt": "Help Center"
+                                    },
+                                    {
+                                        "txt": "Status Monitor"
+                                    },
+                                    {
+                                        "txt": "Contact Support"
+                                    }
+                                ]
+                            }
+                        ],
+                        "partners": [
+                            {
+                                "title": "PARTNERS",
+                                "contents": [
+                                    {
+                                        "txt": "Partner Program"
+                                    },
+                                    {
+                                        "txt": "Become a Partner"
+                                    },
+                                    {
+                                        "txt": "Partner Portal"
+                                    }
+                                ]
+                            }
+                        ],
+                        "account": [
+                            {
+                                "title": "ACCOUNT",
+                                "contents": [
+                                    {
+                                        "txt": "Login to PosBytz"
+                                    },
+                                    {
+                                        "txt": "Register with PosBytz"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "findus": "Find Us On"
+            }
+        ],
+        "aboutus": [
+            {
+                "title": "About PosBytz",
+                "img": [
+                    {
+                        "url": "https://posbytz.com/wp-content/uploads/2021/09/logo_default_2x.svg"
+                    },
+                    {
+                        "url": "https://posbytz.com/wp-content/uploads/2021/09/bytize.svg"
+                    }
+                ],
+                "contents": [
+                    {
+                        "title": "PosBytz is a complete omnichannel solution for Retail & Restaurants."
+                    },
+                    {
+                        "title": "We are a team passionately focused on driving small business success."
+                    },
+                    {
+                        "title": "Our vision is to leverage cloud-based technologies to help companies"
+                    },
+                    {
+                        "title": "improve service and profitability."
+                    },
+                    {
+                        "title": "We address the needs of a wide range of customers from small"
+                    },
+                    {
+                        "title": "independent stores to local chains and large enterprises."
+                    },
+                    {
+                        "title": "PosBytz is a product of Bytize, Inc."
+                    }
+                ],
+                "howtoreach": [
+                    {
+                        "title": "How to Reach",
+                        "discription": "Talk to our expert today and learn how PosBytz can help your business.",
+                        "card": [
+                            {
+                                "title": "Become a Partner",
+                                "icon": "faHandshake",
+                                "discription": "We'd love to talk about how we can work together."
+                            },
+                            {
+                                "title": "General Inquiry",
+                                "icon": "faEnvelopeOpen",
+                                "discription": "For general queries, company info and career opportunities."
+                            },
+                            {
+                                "title": "Contact Support",
+                                "icon": "faHeadset",
+                                "discription": "Our support team is always ready to provide any assistance you may need."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "contact": [
+            {
+                "title": "Contact Us",
+                "form": [
+                    {
+                        "title": "For all general Inquiries",
+                        "para": "Please submit your questions, comments, and other inquires below along with your contact information. One of our team members will reach out to you promptly."
+                    }
+                ]
+            }
+        ],
+        "support": [
+            {
+                "title": "Contact Support",
+                "help": [
+                    {
+                        "title": "Watch Videos",
+                        "para": "Watch step-by-step instructions with short tutorials.",
+                        "btntxt": "Start Watching"
+                    },
+                    {
+                        "title": "Search the Help Center",
+                        "para": "Access guides, support documents and training videos.",
+                        "btntxt": "Go to Help Center"
+                    }
+                ],
+                "kind": [
+                    {
+                        "title": "What kind of help do you need today?",
+                        "para": "Our support team is always ready to provide any assistance you may need. With experts in technology, software implementation, integration assistance, and more, we have you covered. Contact us and follow us.",
+                        "card": [
+                            {
+                                "title": "Live Chat",
+                                "para": "Chat directly with PosBytz support",
+                                "btntxt": "Chat with us"
+                            },
+                            {
+                                "title": "Phone",
+                                "para": "Talk with us over the phone",
+                                "btntxt": "Call us"
+                            },
+                            {
+                                "title": "Email Support",
+                                "para": "Reach us by email",
+                                "btntxt": "Email us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "careers": [
+            {
+                "main": [
+                    {
+                        "title": "CAREERS AT POSBYTZ",
+                        "title2": "Why Join Us ?",
+                        "para": "Explore social-friendly, upskilling opportunities and join our mission to make work life simpler, more pleasant and more productive.",
+                        "btntxt": "SIGN UP FOR FREE",
+                        "img": "https://posbytz.com/wp-content/uploads/2024/01/Why-join-us-01.png"
+                    }
+                ],
+                "posbytz": [
+                    {
+                        "title": "PosBytz is where we work as team",
+                        "para": "Every day, we learn, iterate and explore how to make work better for everyone. Join us in creating a better future of work that's more connected, inclusive and flexible for our clients and us."
+                    }
+                ],
+                "card": [
+                    {
+                        "title": "Connected",
+                        "para": "We come together wherever our clients are—across time zones, regions, offices and screens.",
+                        "icon": "faHandsBubbles"
+                    },
+                    {
+                        "title": "Inclusive",
+                        "para": "Our teams reflect the rich diversity of and accessibility, with equal opportunity for everyone.",
+                        "icon": "faHandsBubbles"
+                    },
+                    {
+                        "title": "Flexible",
+                        "para": "We believe in your freedom to work with more opportunities for everyone to learn and contribute.",
+                        "icon": "faHandsBubbles"
+                    }
+                ],
+                "core": [
+                    {
+                        "title": "Our core values",
+                        "para": "These are some of the values we live by as a company. We work by them too. We're building a platform and products we believe in that helps common people to build their business and scale with powerful solution , elegance and simplicity.",
+                        "cards": [
+                            {
+                                "img": "https://posbytz.com/wp-content/uploads/2023/12/emoji-empathy.jpg",
+                                "title": "Empathy"
+                            },
+                            {
+                                "img": "https://posbytz.com/wp-content/uploads/2023/12/emoji-craftsmenship.jpg",
+                                "title": "Craftsmanship"
+                            },
+                            {
+                                "img": "https://posbytz.com/wp-content/uploads/2023/12/emoji-courtesy.jpg",
+                                "title": "Opportunity for everyone"
+                            },
+                            {
+                                "img": "https://posbytz.com/wp-content/uploads/2023/12/emoji-playfulness.jpg",
+                                "title": "Keep Innovating"
+                            },
+                            {
+                                "img": "https://posbytz.com/wp-content/uploads/2023/12/emoji-thriving.jpg",
+                                "title": "Thriving"
+                            },
+                            {
+                                "img": "https://posbytz.com/wp-content/uploads/2023/12/emoji-solidarity.jpg",
+                                "title": "Best of Quality"
+                            }
+                        ],
+                        "img": "https://posbytz.com/wp-content/uploads/2024/01/Our-core-values.png"
+                    }
+                ],
+                "worklife": [
+                    {
+                        "img": "https://posbytz.com/wp-content/uploads/2024/01/Working-life-Balance.png",
+                        "title": "Working life Balance",
+                        "para": "As part of the thriving product based company, we're proud to offer benefits that help you feel and do your best. Access a range of benefits, resources and expert guidance to help you prioritize your well-being, so you can thrive with a healthy body and mind.",
+                        "subcontents": [
+                            {
+                                "para": "Manage work life balance with Casual leaves, well-being, family planning and more"
+                            },
+                            {
+                                "para": "Exceptional health-care coverage"
+                            },
+                            {
+                                "para": "Fun@work with recursion and team building activies"
+                            }
+                        ]
+                    }
+                ],
+                "positions": [
+                    {
+                        "title": "Open Positions",
+                        "cards": [
+                            {
+                                "title": "FULL STACK DEVELOPER",
+                                "btntext": "Apply Now"
+                            },
+                            {
+                                "title": "SOFTWARE TEST ENGINEER",
+                                "btntext": "Apply Now"
+                            },
+                            {
+                                "title": "CUSTOMER SUCCESS",
+                                "btntext": "Apply Now"
+                            },
+                            {
+                                "title": "INSIDE SALES",
+                                "btntext": "Apply Now"
+                            },
+                            {
+                                "title": "DIGITAL MARKETING",
+                                "btntext": "Apply Now"
+                            },
+                            {
+                                "title": "CUSTOMER SUPPORTS",
+                                "btntext": "Apply Now"
+                            }
+                        ]
+                    }
+                ],
+                "principle": [
+                    {
+                        "title": "PosBytz Principles",
+                        "para": "An organization is driven by its people and culture. We always believe in our core principles as we hire people and always strictly follow without any exemptions.",
+                        "btntxt": "Join us Now"
+                    }
+                ],
+                "fun": [
+                    {
+                        "title": "FUN @ Work",
+                        "para": "Our HR Team Work To Bring Joy And Happiness At Work By Enabling"
+                    }
+                ]
+            }
+        ]
+    }
